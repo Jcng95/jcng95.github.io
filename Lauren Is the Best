@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lauren is the Best</title>
+	<style>
+		body {
+			background-color: #fadedd;
+		}
+		.center-link {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			font-size: 2em;
+			text-align: center;
+			text-decoration: none;
+			color: #fff;
+			background-color: #ff6666;
+			padding: 20px 40px;
+			border-radius: 20px;
+			box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+		}
+		.center-link:hover {
+			background-color: #ff4d4d;
+		}
+	</style>
+</head>
+<body>
+	<a class="center-link" href="https://www.argos.co.uk/">Lauren is the Best</a>
+</body>
+</html>
